@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Projet_Atelier4",
+    "slug": "Projet_Atelier4",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Projet_Atelier4"
+}
